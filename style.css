@@ -1,0 +1,13 @@
+body {
+    background-color: blue;
+}
+
+#countdown {
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+
+.bottoni{
+    text-align: center;
+}
